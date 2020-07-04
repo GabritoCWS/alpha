@@ -8,7 +8,7 @@
     <formFactors>Large</formFactors>
     <isNavAutoTempTabsDisabled>false</isNavAutoTempTabsDisabled>
     <isNavPersonalizationDisabled>false</isNavPersonalizationDisabled>
-    <label>ABRI</label>
+    <label>Abri</label>
     <navType>Standard</navType>
     <tabs>standard-Case</tabs>
     <tabs>standard-Contact</tabs>
@@ -17,5 +17,5 @@
     <tabs>standard-CmsAuthorHome</tabs>
     <tabs>standard-CmsWorkspaces</tabs>
     <uiType>Lightning</uiType>
-    <utilityBar>ABRI_UtilityBar</utilityBar>
+    <utilityBar>Abri_UtilityBar</utilityBar>
 </CustomApplication>
